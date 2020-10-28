@@ -1,1 +1,0 @@
-tar xzvf langdao.tgz -C ~/
